@@ -1,2 +1,2 @@
 # card-note
-a card based note toos
+a card based note tools
